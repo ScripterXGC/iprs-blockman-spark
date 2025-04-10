@@ -1,0 +1,178 @@
+[
+    {
+      "id": 9997,
+      "typeId": 7,
+      "camera": "whole",
+      "name": "Sunny Blockman",
+      "iconUrl": "https://iprs-blockman-spark.vercel.app/static/icons/background/700006.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "decorate_default_bg.7",
+      "details": "Sunny Blockman",
+      "price": 999,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {
+      "id": 9998,
+      "typeId": 7,
+      "camera": "whole",
+      "name": "2019 Blockman",
+      "iconUrl": "https://iprs-blockman-spark.vercel.app/static/icons/background/700005.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "decorate_default_bg.6",
+      "details": "2019 Blockman",
+      "price": 999,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {
+      "id": 9999,
+      "typeId": 7,
+      "camera": "whole",
+      "name": "Galaxy Blockman",
+      "iconUrl": "https://iprs-blockman-spark.vercel.app/static/icons/background/700007.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "decorate_default_bg.8",
+      "details": "Galaxy Blockman",
+      "price": 999,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {
+      "id": 9996,
+      "typeId": 7,
+      "camera": "whole",
+      "name": "Farm Blockman",
+      "iconUrl": "https://iprs-blockman-spark.vercel.app/static/icons/background/700003.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "decorate_default_bg.4",
+      "details": "Farm Blockman",
+      "price": 999,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {
+      "id": 9995,
+      "typeId": 7,
+      "camera": "whole",
+      "name": "World Blockman",
+      "iconUrl": "https://iprs-blockman-spark.vercel.app/static/icons/background/700002.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "decorate_default_bg.3",
+      "details": "World Blockman",
+      "price": 999,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {
+      "id": 10000,
+      "typeId": 7,
+      "camera": "whole",
+      "name": "Snowy Blockman",
+      "iconUrl": "https://iprs-blockman-spark.vercel.app/static/icons/background/700008.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "decorate_default_bg.9",
+      "details": "Snowy Blockman",
+      "price": 999,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {
+      "id": 10001,
+      "typeId": 7,
+      "camera": "whole",
+      "name": "2020 Blockman",
+      "iconUrl": "https://iprs-blockman-spark.vercel.app/static/icons/background/700010.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "decorate_default_bg.10",
+      "details": "2020 Blockman",
+      "price": 999,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {
+      "id": 10002,
+      "typeId": 7,
+      "camera": "whole",
+      "name": "2019 Blockman",
+      "iconUrl": "https://iprs-blockman-spark.vercel.app/static/icons/background/700013.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "decorate_default_bg.11",
+      "details": "2019 Blockman",
+      "price": 999,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "content-deliver-network",
+  "version": "1.0.0",
+  "description": "SERVER BY Mykolnikov",
+  "main": "index.js",
+  "scripts": {},
+  "author": "BlockmanVestaex",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "compression": "^1.7.4",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.13.2"
+  }
+}

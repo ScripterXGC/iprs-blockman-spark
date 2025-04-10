@@ -1,0 +1,21 @@
+[
+    {
+      "id": "10",
+      "title": "Mailbox Asteris GO",
+      "content": "Beta Reward\nHello! Thank you for using this app as a beta application. Here is a reward!",
+      "sendDate": 1742870400,
+      "status": 1,
+      "type": 1,
+      "attachment": [
+        {
+          "status": 1,
+          "type": 1,
+          "name": "Blue Rubix's Cube",
+          "itemId": 2,
+          "qty": 100,
+          "icon": "http://staticgs.sandboxol.com/sandbox/images/banner/cube.png"
+        }
+      ],
+      "extra": null
+    }
+]
