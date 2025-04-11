@@ -13,6 +13,7 @@ const decorationRouter = require('./route/decoration');
 const mailboxRouter = require('./route/mailbox');
 const payRouter = require('./route/pay');
 const clanRouter = require('./route/clan');
+const actRouter = require('./route/activity');
 
 const databaseConfig = require('./config/database');
 const friendRouter = require('./route/friend');
@@ -56,6 +57,7 @@ app.use('/game', gamesRouter);
 app.use('/pay', payRouter);
 app.use(bodyParser.json());
 app.use('/clan', clanRouter);
+app.use('/activity', actRouter);
 
 app.use('/decoration', decorationRouter);
 app.use('/friend', friendRouter);

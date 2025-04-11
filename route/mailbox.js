@@ -32,4 +32,10 @@ router.get('/api/v1/mail', async (req, res) => {
     res.status(200).json({ code: 1, message: 'SUCCESS', data: mail });
 });
 
+router.get('/api/v1/mail/new', async (req, res) => {
+    console.log(req.body);
+    console.log(req.query);
+    console.log(req.headers);
+});
+
 module.exports = router;

@@ -18,13 +18,7 @@ const userSchema = new mongoose.Schema({
     vip: Number,
     email: String,
     friends: [{ type: Schema.Types.ObjectId, ref: 'User' }], // Array of user IDs who are friends
-    friendRequests: [
-        {
-            sex: Number,
-            nickname: String,
-            userId: Number
-        }
-    ]
+    friendRequests: [{ type: Schema.Types.ObjectId, ref: 'User' }]
 });
 
 const User = mongoose.model('User', userSchema);
@@ -89,6 +83,8 @@ router.post('/api/v1/user/register', async (req, res) => {
     user.gold = 9999;
     user.vip = 3;
     user.email = '';
+    user.friends = [];
+    user.friendRequests = [];
 
     await user.save();
 

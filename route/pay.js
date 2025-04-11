@@ -3,6 +3,14 @@ const mongoose = require('mongoose');
 
 const router = express.Router();
 
-// Empty for now
+router.get('/api/v1/pay/products', async (req, res) => {
+    res.status(200).json({
+        code: 1,
+        message: "SUCCESS",
+        data: [
+            {}
+        ]
+    });
+});
 
 module.exports = router;

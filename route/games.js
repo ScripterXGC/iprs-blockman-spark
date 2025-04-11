@@ -68,7 +68,6 @@ router.get('/api/:version/games/recommendation/type', async (req, res) => {
 
 router.get('/api/:version/games', async (req, res) => {
     let gamesJson = await Game.find({});
-    console.log(gamesJson);
     const pageNo = parseInt(req.query.pageNo) || 0;
     const pageSize = parseInt(req.query.pageSize) || 10;
     try {
@@ -296,6 +295,5 @@ router.get('/api/v1/games/ugc', async (req, res) => {
         res.status(500).json({ message: 'Error searching for recommended games.' });
     }
 });
-
 
 module.exports = router;
